@@ -1,7 +1,7 @@
 {
   "name": "Ejercicio_01",
   "version": "1.0.0",
-  "description": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+  "description": "Primer Ejercicio OpenBootCamp JS",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
